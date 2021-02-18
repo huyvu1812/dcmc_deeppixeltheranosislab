@@ -1,8 +1,8 @@
 # dcmc_deeppixeltheranosislab
 # Daegu Catholic University Medical School
 # Deep Pixel Theranosis Lab
-# Professor Sung Won, Youn
-# Lab members: Huy Duc Vu (Ph.D student), Junghwa Ryu (Ph.D), Phuong Tu Huynh (Ph.D)
+***Professor Sung Won, Youn
+***Lab members: Huy Duc Vu (Ph.D student), Junghwa Ryu (Ph.D), Phuong Tu Huynh (Ph.D)
 
 Our work aims to develop and utilize the most state-of-the-art information technology algorithms to detect lesions and abnormalities in medical images.
 By making the most of Tensorflow Object Detection API, we have made some modifications in the open source code to be suitable with our purposes.
